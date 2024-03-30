@@ -1,6 +1,7 @@
 <h1 align="center">React Chat Bubble</h1>
 
 <div align="center">这是一个基础版的聊天机器人模板</div>
+<div align="center">This is a basic version of chatbot template</div>
 
 ### ✨ 特性
 
