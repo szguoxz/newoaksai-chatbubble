@@ -56,6 +56,6 @@ You'll find a lot of resources to help you get started with HeyForm in the [help
 
 ### Want to know more？
 
-Visit [Official](https://www.newoaks.ai) website。
+Visit [Official](https://www.newoaks.ai) website
 
 ### Any questions?, welcome to submit issues or send email to ：cguo@newoaks.ai
