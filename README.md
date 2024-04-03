@@ -3,6 +3,8 @@
 
 [Website](https://www.newoaks.ai) | [Documentation](https://www.newoaks.ai/guide/main) | [Blog](https://www.newoaks.ai/blog/) | [Twitter](https://twitter.com/Rockwood_XRay)</div>
 
+![NewOaks AI](https://cdn.newoaks.ai/open/newoaksai-chatbubble/chatbot.png)
+
 ### ✨ features
 
 * 🎈 Chat page is embedded in a website as a bubble
