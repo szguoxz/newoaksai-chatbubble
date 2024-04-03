@@ -48,8 +48,8 @@ Visit：[`http://localhost:3000 ` ](http://localhost:3000)
 ### Support & Community
 You'll find a lot of resources to help you get started with HeyForm in the [help center](https://www.newoaks.ai/guide/main). However, if you can't find what you're looking for there, don't hesitate to reach out to us:
 
-Have a question? Join the [Discord server](https://discord.com/invite/fuBt2K6k3p) and get instant help.
-Found a bug? [Create an issue](https://github.com/szguoxz/chatbubble/issues)
+  > Have a question? Join the [Discord server](https://discord.com/invite/fuBt2K6k3p) and get instant help.
+  > Found a bug? [Create an issue](https://github.com/szguoxz/chatbubble/issues)
 
 ### Want to know more？
 
