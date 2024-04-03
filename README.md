@@ -1,5 +1,7 @@
 <h1 align="center">React Chat Bubble</h1>
-<div align="center">This is a basic version of chatbot template</div>
+<div align="center">NewOaks AI is an AI chatbot builder, which allows you to engage with customers, nurture leads and book conversational appointments for your website, text SMS and files by Custom ChatGPT and Claude. The open source code is the chat bubble embedded on websites to engage with customers.
+
+[Website](https://www.newoaks.ai) | [Documentation](https://www.newoaks.ai/guide/main) | [Blog](https://www.newoaks.ai/blog/) | [Twitter](https://twitter.com/Rockwood_XRay)</div>
 
 ### ✨ features
 
@@ -42,6 +44,12 @@ Visit：[`http://localhost:3000 ` ](http://localhost:3000)
   > After build succeeded, `embed.bubble.js` will be copied into `public` folder。
   >
   > Then you can visit：`http://localhost:3000/embed.bubble.js`
+
+### Support & Community
+You'll find a lot of resources to help you get started with HeyForm in the [help center](https://www.newoaks.ai/guide/main). However, if you can't find what you're looking for there, don't hesitate to reach out to us:
+
+Have a question? Join the [Discord server](https://discord.com/invite/fuBt2K6k3p) and get instant help.
+Found a bug? [Create an issue](https://github.com/szguoxz/chatbubble/issues)
 
 ### Want to know more？
 
