@@ -14,7 +14,7 @@
 ### Quick Start
 
 ```shell
-npx degit github: szguoxz/chatbubble my-chatbot-example
+npx degit github:szguoxz/chatbubble my-chatbot-example
 
 cd my-chatbot-example
 
