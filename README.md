@@ -1,4 +1,4 @@
-<h1 align="center">React Chat Bubble</h1>
+<h1 align="center">Newoaks AI React Chat Bubble</h1>
 <div align="center">NewOaks AI is an AI chatbot builder, which allows you to engage with customers, nurture leads and book conversational appointments for your website, text SMS and files by Custom ChatGPT and Claude. The open source code is the chat bubble embedded on websites to engage with customers.
 
 [Website](https://www.newoaks.ai) | [Documentation](https://www.newoaks.ai/guide/main) | [Blog](https://www.newoaks.ai/blog/) | [Twitter](https://twitter.com/Rockwood_XRay)</div>
